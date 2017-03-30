@@ -1,0 +1,18 @@
+{
+  "name": "Santosh Kumar Thakur - Gulp Example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "gulp": " This is gulp bundling"
+  },
+  "author": "Santosh",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify": "0.0.10",
+    "gulp-rev": "^7.1.2"
+  }
+}
